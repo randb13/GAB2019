@@ -9,5 +9,7 @@ https://github.com/randb13/GAB2019/blob/master/GAB2019-Terraform.pdf
 
 ## LAB2 : TERRAFORM ET AZURE  DEVOPS
 
-https://www.azuredevopslabs.com/
+https://www.azuredevopslabs.com/labs/vstsextend/terraform/
+
+Enjoy !!
 
