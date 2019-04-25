@@ -1,5 +1,4 @@
-# GAB2019
-## Infrastructure as code (IAC) Simplifiez-vous la vie (et l’IT)
+# GAB_2019 Infrastructure as code (IAC)
 
 ## LAB1 : MES DEBUTS AVEC TERRAFORM ET AZURE
 
