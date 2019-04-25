@@ -1,4 +1,4 @@
-* [![Help Wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)]
+* ![Help Wanted](https://img.shields.io/badge/-help%20wanted-159818.svg)
 
 # Infrastructure as code (IAC) :cloud:
 
