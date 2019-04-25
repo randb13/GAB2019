@@ -1,4 +1,4 @@
-* ![Help Wanted](https://github.com/randb13/GAB2019/blob/master/gab2019.png)
+![GAB2019](https://github.com/randb13/GAB2019/blob/master/gab2019.png)
 
 # Infrastructure as code (IAC) :cloud:
 
