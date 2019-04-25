@@ -1,4 +1,4 @@
-# GAB_2019 Infrastructure as code (IAC)
+# GAB_2019 Infrastructure as code (IAC) :cloud:
 
 ## LAB1 : MES DEBUTS AVEC TERRAFORM ET AZURE
 
